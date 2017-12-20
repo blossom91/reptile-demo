@@ -1,0 +1,12 @@
+{
+  "name": "godemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.13.0",
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0",
+    "sync-request": "^4.0.1"
+  }
+}

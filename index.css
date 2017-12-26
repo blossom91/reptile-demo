@@ -1,0 +1,6 @@
+.cosActive-enter-active, .cosActive-leave-active {
+    transition: opacity .5s
+  }
+  .cosActive-enter, .cosActive-leave-to  {
+    opacity: 0
+  }

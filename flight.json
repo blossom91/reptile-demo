@@ -1,0 +1,4882 @@
+{
+  "flight": [
+    {
+      "company": "中国国航",
+      "fightNo": "CA1609",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1609",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3905",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6144",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1825",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6146",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1827",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "英国航空",
+      "fightNo": "BA2000",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1649",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1649",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3911",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1629",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3907",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1629",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1647",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1647",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3909",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6150",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1831",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7765",
+      "depart": "北京首都T1",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "香港航空",
+      "fightNo": "HX1765",
+      "depart": "北京首都T1",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1661",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1661",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3913",
+      "depart": "北京首都T3",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6186",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "英国航空",
+      "fightNo": "BA2002",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF4574",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6180",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1855",
+      "depart": "北京首都T2",
+      "arrive": "长春龙嘉"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1343",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3915",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1343",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7635",
+      "depart": "北京首都T1",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3148",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1044",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8192",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8192",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5122",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3124",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1024",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3564",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1373",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3921",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1373",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3718",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1536",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3290",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3128",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1028",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3568",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7835",
+      "depart": "北京首都T1",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1363",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3919",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1363",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7135",
+      "depart": "北京首都T1",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3164",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1060",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1349",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3917",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1349",
+      "depart": "北京首都T3",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8148",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8148",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5090",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3142",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3570",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1042",
+      "depart": "北京首都T2",
+      "arrive": "长沙黄花T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1825",
+      "depart": "北京首都T3",
+      "arrive": "常州奔牛"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1825",
+      "depart": "北京首都T3",
+      "arrive": "常州奔牛"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2762",
+      "depart": "北京首都T2",
+      "arrive": "常州奔牛"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9186",
+      "depart": "北京首都T2",
+      "arrive": "常州奔牛"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8896",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4194",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4194",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6320",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7147",
+      "depart": "北京首都T1",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1405",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "全日空",
+      "fightNo": "NH5778",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1405",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6229",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6161",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3597",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1840",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3003",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4112",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC4112",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4112",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6290",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1415",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6237",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1415",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8548",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9896",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4102",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4102",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6280",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6183",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3001",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3603",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1858",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8882",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9882",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4114",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4114",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6292",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4198",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6322",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4198",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8884",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9884",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4108",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4108",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6286",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3903",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3009",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3492",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1697",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4116",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6294",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4116",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8886",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9886",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "荷兰皇家航空公司",
+      "fightNo": "KL4559",
+      "depart": "北京首都",
+      "arrive": "成都双流"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1407",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6231",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "全日空",
+      "fightNo": "NH5780",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1407",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7247",
+      "depart": "北京首都T1",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3005",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6135",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1816",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3577",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1425",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6239",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1425",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8888",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9888",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4104",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4104",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6282",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4110",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6288",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4110",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8894",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9894",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4106",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4106",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6284",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4120",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4120",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6298",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8890",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9890",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4118",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6296",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4118",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6119",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1800",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3561",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3007",
+      "depart": "北京首都T2",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH9163",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "昆明航空",
+      "fightNo": "KY9163",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6603",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA3463",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7347",
+      "depart": "北京首都T1",
+      "arrive": "成都双流T2"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8892",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9892",
+      "depart": "北京首都T3",
+      "arrive": "成都双流T1"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3183",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3049",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1075",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3044",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55001",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8819",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1437",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1437",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1437",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6249",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54231",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1431",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1431",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6245",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1431",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54061",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2865",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9368",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6443",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G56050",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "重庆航空",
+      "fightNo": "OQ2302",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55162",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ8102",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF4842",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8830",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9898",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G56609",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC3072",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "重庆航空",
+      "fightNo": "OQ2329",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ8129",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4130",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54102",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC4130",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4130",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6302",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4138",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6304",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4138",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54106",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC4138",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1439",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1439",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6251",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1439",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54065",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1411",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "全日空",
+      "fightNo": "NH5785",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1411",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54055",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6235",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1411",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3259",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU4794",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55013",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1141",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3047",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7161",
+      "depart": "北京首都T1",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1409",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1409",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1409",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6233",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54053",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "全日空",
+      "fightNo": "NH5792",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8832",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9900",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC3074",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1435",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6247",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1435",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1435",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54063",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4142",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC4142",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6306",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54108",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4142",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5528",
+      "depart": "北京首都T2",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4144",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4144",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54110",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC4144",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6308",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA986",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1156",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G51156",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1156",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6752",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T3"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8834",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9902",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G56557",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC3076",
+      "depart": "北京首都T3",
+      "arrive": "重庆江北T2A"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7103",
+      "depart": "北京首都T1",
+      "arrive": "大连"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1607",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1607",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3929",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54077",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1607",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6132",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55062",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1813",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA953",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3925",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1605",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3927",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54075",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1605",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6126",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1807",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55326",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA8904",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54188",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4618",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3933",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC8904",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6130",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1811",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6122",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1803",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "英国航空",
+      "fightNo": "BA2006",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA8906",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC8906",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54190",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3935",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4966",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6134",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1815",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2312",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6450",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6140",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1821",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55064",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA8908",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3937",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4620",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54192",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC8908",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7105",
+      "depart": "北京首都T1",
+      "arrive": "大连"
+    },
+    {
+      "company": "香港航空",
+      "fightNo": "HX1105",
+      "depart": "北京首都T1",
+      "arrive": "大连"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA8902",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6128",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55060",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1809",
+      "depart": "北京首都T2",
+      "arrive": "大连"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3931",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC8902",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4616",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54186",
+      "depart": "北京首都T3",
+      "arrive": "大连"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1419",
+      "depart": "北京首都T3",
+      "arrive": "大理荒草坝"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1419",
+      "depart": "北京首都T3",
+      "arrive": "大理荒草坝"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU9747",
+      "depart": "北京首都T2",
+      "arrive": "大理荒草坝"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3166",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3576",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1062",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5181",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6441",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9224",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1351",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "夏威夷航空公司",
+      "fightNo": "HA3802",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1351",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7805",
+      "depart": "北京首都T1",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3108",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3114",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3011",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1008",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1321",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1321",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "夏威夷航空公司",
+      "fightNo": "HA3804",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3000",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF4001",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3001",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3112",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3015",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1012",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5132",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3116",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3019",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1016",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1339",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1339",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1315",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3102",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3005",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1002",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1315",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3110",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3106",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1006",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3009",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7807",
+      "depart": "北京首都T1",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1327",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1327",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3162",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1058",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3051",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1301",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1301",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3104",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1004",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3007",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1365",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1365",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7801",
+      "depart": "北京首都T1",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ323",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3122",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3025",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1022",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7809",
+      "depart": "北京首都T1",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1309",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1309",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3110",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3112",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1010",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3013",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3100",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1000",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3003",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1329",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1329",
+      "depart": "北京首都T3",
+      "arrive": "广州白云A"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3114",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3017",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1014",
+      "depart": "北京首都T2",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7803",
+      "depart": "北京首都T1",
+      "arrive": "广州白云B"
+    },
+    {
+      "company": "大新华航空",
+      "fightNo": "CN7215",
+      "depart": "北京首都T1",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7215",
+      "depart": "北京首都T1",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1471",
+      "depart": "北京首都T3",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1471",
+      "depart": "北京首都T3",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54237",
+      "depart": "北京首都T3",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6261",
+      "depart": "北京首都T3",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3282",
+      "depart": "北京首都T2",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1158",
+      "depart": "北京首都T2",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1225",
+      "depart": "北京首都T3",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54039",
+      "depart": "北京首都T3",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6211",
+      "depart": "北京首都T3",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1225",
+      "depart": "北京首都T3",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3288",
+      "depart": "北京首都T2",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1162",
+      "depart": "北京首都T2",
+      "arrive": "桂林两江"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3686",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55038",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1506",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU4511",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1461",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1461",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54067",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1461",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7189",
+      "depart": "北京首都T1",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "天津航空",
+      "fightNo": "GS7189",
+      "depart": "北京首都T1",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6448",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF4091",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55410",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3070",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3682",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55036",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU4474",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1504",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7589",
+      "depart": "北京首都T1",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4162",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4162",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54114",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC4162",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3688",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3286",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1508",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55040",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1463",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1463",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1463",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54069",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6188",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1861",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3152",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55076",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3654",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G55026",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3099",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1478",
+      "depart": "北京首都T2",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4166",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC4166",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54116",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4166",
+      "depart": "北京首都T3",
+      "arrive": "贵阳龙洞堡T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1621",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3943",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1621",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6657",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF4264",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU4819",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1689",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1689",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7129",
+      "depart": "北京首都T1",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "香港航空",
+      "fightNo": "HX1129",
+      "depart": "北京首都T1",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "大新华航空",
+      "fightNo": "CN7139",
+      "depart": "北京首都T1",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7139",
+      "depart": "北京首都T1",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2467",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1643",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1643",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3949",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6204",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1873",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3616",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6267",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1924",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6220",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3054",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1885",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3624",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1623",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3945",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1623",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "大新华航空",
+      "fightNo": "CN7149",
+      "depart": "北京首都T1",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7149",
+      "depart": "北京首都T1",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "香港航空",
+      "fightNo": "HX1149",
+      "depart": "北京首都T1",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2717",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9227",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1611",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3941",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1611",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1611",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54466",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6208",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3521",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1875",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6218",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U3052",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3622",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1883",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5197",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9307",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6402",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1639",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1639",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3947",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6202",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3614",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1871",
+      "depart": "北京首都T2",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8303",
+      "depart": "北京首都T3",
+      "arrive": "哈尔滨太平"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1361",
+      "depart": "北京首都T3",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1361",
+      "depart": "北京首都T3",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8395",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5457",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8395",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "首都航空",
+      "fightNo": "JD5395",
+      "depart": "北京首都T1",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6720",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF4800",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7382",
+      "depart": "北京首都T1",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7682",
+      "depart": "北京首都T1",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1393",
+      "depart": "北京首都T3",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1393",
+      "depart": "北京首都T3",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7182",
+      "depart": "北京首都T1",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3120",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1020",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5161",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6445",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1355",
+      "depart": "北京首都T3",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1355",
+      "depart": "北京首都T3",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6366",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF4018",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7782",
+      "depart": "北京首都T1",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7882",
+      "depart": "北京首都T1",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6158",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1837",
+      "depart": "北京首都T2",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7282",
+      "depart": "北京首都T1",
+      "arrive": "海口美兰"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1565",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1565",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "上海航空",
+      "fightNo": "FM9158",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU9158",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1509",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1509",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "夏威夷航空公司",
+      "fightNo": "HA3814",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "长龙航空",
+      "fightNo": "GJ8888",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7677",
+      "depart": "北京首都T1",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1595",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "夏威夷航空公司",
+      "fightNo": "HA3816",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1595",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7277",
+      "depart": "北京首都T1",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1702",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "汉莎航空",
+      "fightNo": "LH7284",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1702",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5132",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9265",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1704",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1704",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5147",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1712",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1712",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "上海航空",
+      "fightNo": "FM9152",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU9152",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1716",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1716",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1563",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1563",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU711",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "澳航",
+      "fightNo": "QF5004",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6476",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1718",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1718",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5458",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9433",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6523",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7177",
+      "depart": "北京首都T1",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6163",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1842",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3072",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1706",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1706",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "荷兰皇家航空公司",
+      "fightNo": "KL4475",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1710",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1710",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1714",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1714",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8150",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8150",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5092",
+      "depart": "北京首都T2",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1708",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1708",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "首都航空",
+      "fightNo": "JD5351",
+      "depart": "北京首都T1",
+      "arrive": "杭州萧山T3"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1740",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1740",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1740",
+      "depart": "北京首都T3",
+      "arrive": "杭州萧山T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1255",
+      "depart": "北京首都T3",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54460",
+      "depart": "北京首都T3",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1255",
+      "depart": "北京首都T3",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1255",
+      "depart": "北京首都T3",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1843",
+      "depart": "北京首都T3",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1843",
+      "depart": "北京首都T3",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5170",
+      "depart": "北京首都T2",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9286",
+      "depart": "北京首都T2",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6437",
+      "depart": "北京首都T2",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1845",
+      "depart": "北京首都T3",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1845",
+      "depart": "北京首都T3",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5172",
+      "depart": "北京首都T2",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6521",
+      "depart": "北京首都T2",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9288",
+      "depart": "北京首都T2",
+      "arrive": "合肥新桥"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA997",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX5997",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA6537",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "香港航空",
+      "fightNo": "HX305",
+      "depart": "北京首都T2",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU8159",
+      "depart": "北京首都T2",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA937",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX5937",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA6533",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA101",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA1101",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX6101",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA905",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA6513",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX5905",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ310",
+      "depart": "北京首都T2",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA111",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX6111",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA1111",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX347",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA5347",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA6601",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "香港航空",
+      "fightNo": "HX337",
+      "depart": "北京首都T2",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU8189",
+      "depart": "北京首都T2",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA901",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX5901",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA6509",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA109",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA1109",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX6109",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX391",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA5391",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA6603",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA115",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX6115",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA1115",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX331",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA5331",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA6605",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA117",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA1117",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX6117",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA107",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA1107",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX6107",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA993",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX5993",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA6521",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA903",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX5903",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA6511",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "香港航空",
+      "fightNo": "HX313",
+      "depart": "北京首都T2",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU8191",
+      "depart": "北京首都T2",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰港龙航空",
+      "fightNo": "KA975",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "国泰航空",
+      "fightNo": "CX5975",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA6523",
+      "depart": "北京首都T3",
+      "arrive": "香港赤鱲角T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1551",
+      "depart": "北京首都T3",
+      "arrive": "黄山屯溪"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1551",
+      "depart": "北京首都T3",
+      "arrive": "黄山屯溪"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7175",
+      "depart": "北京首都T1",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "天津航空",
+      "fightNo": "GS7175",
+      "depart": "北京首都T1",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1117",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1117",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54015",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1111",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54011",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1111",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1105",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1105",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1101",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1101",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54007",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1115",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1115",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "华夏航空",
+      "fightNo": "G54013",
+      "depart": "北京首都T3",
+      "arrive": "呼和浩特白塔"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1152",
+      "depart": "北京首都T3",
+      "arrive": "济南遥墙"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1152",
+      "depart": "北京首都T3",
+      "arrive": "济南遥墙"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8132",
+      "depart": "北京首都T2",
+      "arrive": "泉州晋江"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8132",
+      "depart": "北京首都T2",
+      "arrive": "泉州晋江"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5080",
+      "depart": "北京首都T2",
+      "arrive": "泉州晋江"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8114",
+      "depart": "北京首都T2",
+      "arrive": "泉州晋江"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8114",
+      "depart": "北京首都T2",
+      "arrive": "泉州晋江"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5066",
+      "depart": "北京首都T2",
+      "arrive": "泉州晋江"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH9165",
+      "depart": "北京首都T3",
+      "arrive": "泉州晋江"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA3465",
+      "depart": "北京首都T3",
+      "arrive": "泉州晋江"
+    },
+    {
+      "company": "昆明航空",
+      "fightNo": "KY9165",
+      "depart": "北京首都T3",
+      "arrive": "泉州晋江"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1505",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1505",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1505",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8168",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8168",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5108",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8116",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8116",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5068",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC4758",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4758",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8166",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8166",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5106",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8108",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5060",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8108",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1807",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1807",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1807",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7695",
+      "depart": "北京首都T1",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8172",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5112",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8172",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF8120",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "河北航空",
+      "fightNo": "NS8120",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ5072",
+      "depart": "北京首都T2",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1821",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1821",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC1821",
+      "depart": "北京首都T3",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7195",
+      "depart": "北京首都T1",
+      "arrive": "福州长乐"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1403",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "昆明航空",
+      "fightNo": "KY1403",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1403",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2035",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7211",
+      "depart": "北京首都T1",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8838",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2587",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3901",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1695",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3490",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1487",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6263",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1487",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "昆明航空",
+      "fightNo": "KY1487",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5292",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2569",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4172",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "昆明航空",
+      "fightNo": "KY4172",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4172",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5491",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9064",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U5099",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5702",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5714",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U5090",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9532",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5704",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U5094",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9042",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7111",
+      "depart": "北京首都T1",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ6159",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1838",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3595",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU9706",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5706",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9524",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U5098",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6529",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5708",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6499",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9526",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U5096",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU9702",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ3997",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "厦门航空",
+      "fightNo": "MF1779",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3534",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5710",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9075",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U5088",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7311",
+      "depart": "北京首都T1",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4174",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4174",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "昆明航空",
+      "fightNo": "KY4174",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5712",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U5092",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9530",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6532",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5720",
+      "depart": "北京首都T2",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "四川航空",
+      "fightNo": "3U8723",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU3185",
+      "depart": "北京首都T3",
+      "arrive": "昆明长水"
+    },
+    {
+      "company": "东海航空",
+      "fightNo": "DZ6205",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1277",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3839",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6225",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1277",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2129",
+      "depart": "北京首都T2",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9029",
+      "depart": "北京首都T2",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "海南航空",
+      "fightNo": "HU7231",
+      "depart": "北京首都T1",
+      "arrive": "兰州中川T1"
+    },
+    {
+      "company": "香港航空",
+      "fightNo": "HX1231",
+      "depart": "北京首都T1",
+      "arrive": "兰州中川T1"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1273",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3837",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1273",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6223",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1239",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3833",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1239",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6217",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2412",
+      "depart": "北京首都T2",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9138",
+      "depart": "北京首都T2",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1271",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6221",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1271",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3835",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA1221",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH1221",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6207",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "新西兰航空公司",
+      "fightNo": "NZ3831",
+      "depart": "北京首都T3",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2416",
+      "depart": "北京首都T2",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6395",
+      "depart": "北京首都T2",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9140",
+      "depart": "北京首都T2",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU2418",
+      "depart": "北京首都T2",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "达美航空公司",
+      "fightNo": "DL6396",
+      "depart": "北京首都T2",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "南方航空",
+      "fightNo": "CZ9142",
+      "depart": "北京首都T2",
+      "arrive": "兰州中川T2"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA4112",
+      "depart": "北京首都T3",
+      "arrive": "拉萨贡嘎"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH4112",
+      "depart": "北京首都T3",
+      "arrive": "拉萨贡嘎"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV6290",
+      "depart": "北京首都T3",
+      "arrive": "拉萨贡嘎"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC4112",
+      "depart": "北京首都T3",
+      "arrive": "拉萨贡嘎"
+    },
+    {
+      "company": "西藏航空",
+      "fightNo": "TV9816",
+      "depart": "北京首都T3",
+      "arrive": "拉萨贡嘎"
+    },
+    {
+      "company": "深圳航空",
+      "fightNo": "ZH3916",
+      "depart": "北京首都T3",
+      "arrive": "拉萨贡嘎"
+    },
+    {
+      "company": "中国国航",
+      "fightNo": "CA3922",
+      "depart": "北京首都T3",
+      "arrive": "拉萨贡嘎"
+    },
+    {
+      "company": "山东航空",
+      "fightNo": "SC9816",
+      "depart": "北京首都T3",
+      "arrive": "拉萨贡嘎"
+    },
+    {
+      "company": "东方航空",
+      "fightNo": "MU5165",
+      "depart": "北京首都T2",
+      "arrive": "连云港白塔埠"
+    }
+  ]
+}

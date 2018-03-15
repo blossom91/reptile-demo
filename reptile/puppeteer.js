@@ -43,7 +43,7 @@ const base64ToImg = async base64Str => {
 }
 
 // 爬取逻辑
-const reptile = async() => {
+const reptile = async () => {
     // 创建一个beowser服务
     const browser = await puppeteer.launch()
     // 打开一张页面
@@ -64,7 +64,7 @@ const reptile = async() => {
     await page.click('.s_search')
     console.log('go to search list')
     // 页面加载结束触发
-    page.on('load', async() => {
+    page.on('load', async () => {
         console.log('page loading done, start fetch...')
         // 返回查询数组
         const srcs = await page.evaluate(() => {

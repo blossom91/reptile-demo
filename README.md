@@ -9,6 +9,8 @@ npm i
 // 爬取火车
 npm run train
 
+
+
 // 爬取航班
 npm run flight
 ```
